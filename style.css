@@ -8,4 +8,16 @@ p {
 		color: black
 }
 
-
+<style>
+#header {
+	background: black
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+#nav {
+	background: gray
+	color: black;
+	text-align: center;
+	
+}
